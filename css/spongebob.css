@@ -1,0 +1,13 @@
+body {
+  font-family: Courier New;
+  background-color: yellow;
+  color: blue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: hotpink;
+  background-color: lavender;
+  padding: 10px;
+}
