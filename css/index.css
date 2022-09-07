@@ -9,7 +9,13 @@ a {
   color: hotpink;
   background-color: lavender;
   padding: 10px;
+  border-radius: 25px;
 }
+
+div {
+   margin-bottom: 10px;
+}
+
 
 img {
   display: block;
