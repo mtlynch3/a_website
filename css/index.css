@@ -12,6 +12,11 @@ a {
   border-radius: 25px;
 }
 
+div {
+   margin-bottom: 10px;
+}
+
+
 img {
   display: block;
   margin-left: auto;
