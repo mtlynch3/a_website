@@ -1,16 +1,29 @@
 body {
-  font-family: Courier New;
+  font-family: Arial;
   color: blue;
   text-align: center;
 }
 
-a {
-  text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
-  padding: 10px;
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
 }
 
-.link {
-  margin: 40px;
+.div-class {
+ color: mediumorchid;
+} 
+
+#div-id {
+  color: crimson;
+} 
+
+div {
+  color: orange;
 }
+
+a {
+  text-decoration: none;
+  color: seagreen;
+}
+
